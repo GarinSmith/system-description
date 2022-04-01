@@ -6,6 +6,10 @@ edit_uri: ""
 nav:
   - System Description:
     - Introduction: index.md
+    - System:
+      - Overview: system/overview.md
+    - Processing:
+      - ADES: processing/ades.md
 
 theme:
   # name: mkdocs
