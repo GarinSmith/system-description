@@ -1,4 +1,4 @@
-# ADES - Application Deployment & Execution Service [TODO]
+# PDE - Processor Development Environment [TODO]
 
 > Use dedicated markdown files to separate the sub-section content if needed.<br>
 > Use diagrams where useful.

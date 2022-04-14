@@ -5,11 +5,24 @@ edit_uri: ""
 
 nav:
   - System Description:
-    - Introduction: index.md
+    - index.md
     - System:
-      - Overview: system/overview.md
+      - system/overview.md
     - Processing:
-      - ADES: processing/ades.md
+      - processing/ades.md
+      - processing/pde.md
+    - Resources:
+      - resources/catalogue.md
+      - resources/data-access.md
+      - resources/workspace.md
+    - User Management:
+      - iam/login-service.md
+      - iam/pdp.md
+      - Policy Enforcement:
+        - iam/resource-guard.md
+        - iam/pep.md
+        - iam/uma-user-agent.md
+      - iam/user-profile.md
 
 theme:
   # name: mkdocs

@@ -1,4 +1,4 @@
-# ADES - Application Deployment & Execution Service [TODO]
+# PEP - Policy Enforcement Point [TODO]
 
 > Use dedicated markdown files to separate the sub-section content if needed.<br>
 > Use diagrams where useful.

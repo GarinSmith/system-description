@@ -1,4 +1,4 @@
-# System Description
+# Introduction
 
 The System Description provides a high-level view of the EOEPCA architecture as a set of components (building blocks).
 

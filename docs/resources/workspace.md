@@ -1,4 +1,4 @@
-# ADES - Application Deployment & Execution Service [TODO]
+# Workspace [TODO]
 
 > Use dedicated markdown files to separate the sub-section content if needed.<br>
 > Use diagrams where useful.
