@@ -1,4 +1,4 @@
-# UMA User Agent [TODO]
+# UMA User Agent
 
 ## Description
 
