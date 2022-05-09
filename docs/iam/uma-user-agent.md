@@ -77,6 +77,6 @@ The _UMA User Agent_ integrates with:
 * **Authorization Server**<br>
     The _UMA User Agent_ follows the UMA flow by interfacing with the token endpoint of the Authorization Server that is identified in the response received back from the PEP.
 
-## Usage
+## Additional Information
 
 > Describe the configuration of the agent binary, and the configuration of nginx.

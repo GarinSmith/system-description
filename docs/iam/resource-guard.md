@@ -28,6 +28,6 @@ See the interface specifications for the [UMA User Agent](uma-user-agent.md#inte
 
 The Resource Guard is an 'umbrella' component that comprises and so entirely depends upon the [UMA User Agent](uma-user-agent.md) and [Policy Enforcement Point](pep.md).
 
-## Usage
+## Additional Information
 
 The Resource Guard is deployed using the [helm chart](https://github.com/EOEPCA/helm-charts/tree/main/charts/resource-guard) that is available at the [EOEPCA Helm Chart Repository](https://eoepca.github.io/helm-charts).
